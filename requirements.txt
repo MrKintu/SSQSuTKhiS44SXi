@@ -10,3 +10,4 @@ seaborn
 pmdarima
 scikit-learn
 plotly
+jupyter
