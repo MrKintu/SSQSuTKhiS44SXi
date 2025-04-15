@@ -1,4 +1,5 @@
-numpy
+numpy>=1.21,<1.27
+pmdarima>=2.0,<3.0
 yfinance
 pandas
 requests
@@ -7,7 +8,6 @@ lxml
 matplotlib
 ipywidgets
 seaborn
-pmdarima
 scikit-learn
 plotly
 jupyter
